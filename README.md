@@ -1,6 +1,7 @@
 # Sharp Scholars a Web Application Final Project
 ## An introduction to Sharp Scholars<br>
 When I was a freshman in college, I was required to take a class about how to succeed as a college kid. In the class for this project, we reminisced on what we wished we would have learned as freshmen. All of us were collectively disappointed in this freshman class that was supposed to teach us how to succeed. Thus, we set out to make a web application that would provide the things we wished we would have learned. <br> 
+Link to project: [https://github.com/misscintech/310_FinalProject.git] 
 ## Step 1: Gathering a Team <br>
 At the start of the semester, I knew two people in this class, one of which was a previous team member of the Learn Bot. So I recruited the only two people I knew. Since we were a group of three we needed one more person to meet the group number requirements. So we gained two group members randomly. Then we had our first meeting where we decided to do Sharp Scholars. The day after our first meeting, we gained another group member. We went from a team of three to a team of six. 
 Now we have a team and we’ve decided what to do as well as a (rough) idea of what we were going to do. There’s a bit of time before our team’s check-in.<br> 
